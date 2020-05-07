@@ -7,3 +7,8 @@ Fizz Buzz is a program that prints out number values 1 to 100. In the program I 
 <h3>Prime Number Detective:</h3> 
 
 Prime Number Detective is a program that tests an array list of number values. The program is testing to see that numbers in the array are prime numbers. If the value is prime then the terminal will print out those value in the array. 
+
+<b>Contact Info</b> </br>
+Profile: https://twcap.github.io/Profile/ <br/>
+Linkedin: https://www.linkedin.com/in/tate-capra/ <br/> 
+Email: TateCapra@outlook.com 
