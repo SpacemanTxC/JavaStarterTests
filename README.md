@@ -10,5 +10,4 @@ Prime Number Detective is a program that tests an array list of number values. T
 
 <b>Contact Info</b> </br>
 Profile: https://SpacemanTxC.github.io/Profile/ <br/>
-Linkedin: https://www.linkedin.com/in/tate-capra/ <br/> 
-Email: TateCapra@outlook.com 
+
